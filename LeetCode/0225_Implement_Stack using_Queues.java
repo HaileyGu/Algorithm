@@ -5,7 +5,6 @@
 class MyStack {
     private LinkedList<Integer> que = new LinkedList<>();
 
-    /** Initialize your data structure here. */
     public MyStack() {
 
     }
